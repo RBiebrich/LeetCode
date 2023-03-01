@@ -1,4 +1,5 @@
-#CHALLENGE:
+# CHALLENGE: Add to Array Form of Int
+# DIFFICULTY: Easy
 #===================================================================================
 # The array-form of an integer num is an array representing its digits in left to 
 # right order.
